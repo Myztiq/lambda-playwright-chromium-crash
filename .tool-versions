@@ -1,0 +1,3 @@
+# This file is used for jenkins to know what version of node to use
+# https://github.com/asdf-vm/asdf to learn more about how it works
+nodejs 18.15.0
